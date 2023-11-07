@@ -1,6 +1,24 @@
-'use strict';
 
 
+var bitrateMetric = 0;
+var bufferMetric = 0;
+var mThroughput = 0;
+var segmentDownloadTimeMetric = 0;
+var segmentSizeMetric = 0;
+
+function collectMetrics(){
+    console.log("Selected bitrate (Mbps): " + bitrateMetric)
+    console.log("Buffer level (second): " + bufferMetric)
+    console.log("Measured throughput (Mbps): " + mThroughput)
+    console.log("Download time (second): " + segmentDownloadTimeMetric)
+    console.log("Segment size (byte): " + segmentSizeMetric)
+    console.log()
+}
+
+
+setInterval(function () {
+    collectMetrics();
+}, 1000);
 var app = angular.module('DashPlayer', ['DashSourcesService', 'DashContributorsService', 'DashIFTestVectorsService', 'angular-flot']); /* jshint ignore:line */
 
 $(document).ready(function () {
@@ -163,7 +181,10 @@ app.controller('DashController', ['$scope', '$window', 'sources', 'contributors'
             liveLatency: { data: [], selected: false, color: '#65080c', label: 'Live Latency' },
             playbackRate: { data: [], selected: false, color: '#65080c', label: 'Playback Rate' }
         }
+
     };
+
+
 
     /* ======= General ======= */
     $scope.abrEnabled = true;
@@ -270,6 +291,8 @@ app.controller('DashController', ['$scope', '$window', 'sources', 'contributors'
     $scope.videoEtp = 0;
     $scope.videoLiveLatency = 0;
     $scope.videoPlaybackRate = 1.00;
+
+
 
     $scope.audioBitrate = 0;
     $scope.audioIndex = 0;
@@ -445,6 +468,7 @@ app.controller('DashController', ['$scope', '$window', 'sources', 'contributors'
         $scope.metricsTimer = setInterval(function () {
             updateMetrics('video');
             updateMetrics('audio');
+
             $scope.chartCount++;
         }, $scope.updateMetricsInterval);
     }, $scope);
@@ -1892,6 +1916,7 @@ app.controller('DashController', ['$scope', '$window', 'sources', 'contributors'
                 return Math.abs(req._tfinish.getTime() - req.tresponse.getTime()) / 1000;
             });
 
+
             download[type] = {
                 average: downloadTimes.reduce(function (l, r) {
                     return l + r;
@@ -1999,11 +2024,14 @@ app.controller('DashController', ['$scope', '$window', 'sources', 'contributors'
         return Math.max(now - $scope.sessionStartTime, 0);
     }
 
+    //SONIA
     function updateMetrics(type) {
         var dashMetrics = $scope.player.getDashMetrics();
         var dashAdapter = $scope.player.getDashAdapter();
 
         if (dashMetrics && $scope.currentStreamInfo) {
+
+
             var period = dashAdapter.getPeriodById($scope.currentStreamInfo.id);
             var periodIdx = period ? period.index : $scope.currentStreamInfo.index;
 
@@ -2011,13 +2039,14 @@ app.controller('DashController', ['$scope', '$window', 'sources', 'contributors'
             var repSwitch = dashMetrics.getCurrentRepresentationSwitch(type, true);
             var bufferLevel = dashMetrics.getCurrentBufferLevel(type, true);
             var index = $scope.player.getQualityFor(type);
-
             var bitrate = repSwitch ? Math.round(dashAdapter.getBandwidthForRepresentation(repSwitch.to, periodIdx) / 1000) : NaN;
             var droppedFramesMetrics = dashMetrics.getCurrentDroppedFrames();
             var droppedFPS = droppedFramesMetrics ? droppedFramesMetrics.droppedFrames : 0;
             var liveLatency = 0;
             var playbackRate = 1.00
             var mtp = $scope.player.getAverageThroughput(type);
+
+
             if ($scope.isDynamic) {
                 liveLatency = $scope.player.getCurrentLiveLatency();
                 playbackRate = parseFloat($scope.player.getPlaybackRate().toFixed(2));
@@ -2037,6 +2066,12 @@ app.controller('DashController', ['$scope', '$window', 'sources', 'contributors'
                 $scope[type + 'Etp'] = (httpMetrics.etp[type] / 1000).toFixed(3);
                 $scope[type + 'Mtp'] = (mtp / 1000).toFixed(3);
             }
+            bitrateMetric = bitrate/1000;
+            bufferMetric= bufferLevel;
+            mThroughput = mtp/1000;
+            segmentDownloadTimeMetric = httpMetrics.download[type].average.toFixed(2);    //seconds
+            segmentSizeMetric = (bitrateMetric/segmentDownloadTimeMetric)*125000;    //Mbps/s
+
 
             if ($scope.chartCount % 2 === 0) {
                 var time = getTimeForPlot();
