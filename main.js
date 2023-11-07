@@ -15,12 +15,12 @@ function collectMetrics(){
     console.log("Download time (second): " + segmentDownloadTimeMetric)
     console.log("Segment size (byte): " + segmentSizeMetric)
     console.log()
-    timer = timer + 8;
 }
 
 
 setInterval(function () {
     collectMetrics();
+    timer = timer + 8
 }, 8000);
 var app = angular.module('DashPlayer', ['DashSourcesService', 'DashContributorsService', 'DashIFTestVectorsService', 'angular-flot']); /* jshint ignore:line */
 
@@ -213,7 +213,6 @@ app.controller('DashController', ['$scope', '$window', 'sources', 'contributors'
     $scope.drmKeySystem = '';
     $scope.drmLicenseURL = '';
     $scope.drmRequestHeader = '';
-
 
     $scope.protectionData = {};
     $scope.prioritiesEnabled = false;
@@ -1875,6 +1874,7 @@ app.controller('DashController', ['$scope', '$window', 'sources', 'contributors'
             alert('The length of the URL may exceed the Browser url character limit.')
         }
     }
+
 
     ////////////////////////////////////////
     //

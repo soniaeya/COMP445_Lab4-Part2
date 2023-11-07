@@ -1,0 +1,596 @@
+
+
+main.js:11 Time: 0
+main.js:12 Selected bitrate (Mbps): 0
+main.js:13 Buffer level (second): 0
+main.js:14 Measured throughput (Mbps): 0
+main.js:15 Download time (second): 0
+main.js:16 Segment size (byte): 0
+
+main.js:11 Time: 8
+main.js:12 Selected bitrate (Mbps): 0
+main.js:13 Buffer level (second): 0
+main.js:14 Measured throughput (Mbps): 0
+main.js:15 Download time (second): 0
+main.js:16 Segment size (byte): 0
+
+main.js:11 Time: 16
+main.js:12 Selected bitrate (Mbps): 0.76
+main.js:13 Buffer level (second): 0
+main.js:14 Measured throughput (Mbps): 0
+main.js:15 Download time (second): 0
+main.js:16 Segment size (byte): 0
+
+main.js:11 Time: 24
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 9.064
+main.js:14 Measured throughput (Mbps): 10.213
+main.js:15 Download time (second): 0.19
+main.js:16 Segment size (byte): 44078.94736842106
+
+main.js:11 Time: 32
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 16.875
+main.js:14 Measured throughput (Mbps): 13.451
+main.js:15 Download time (second): 0.10
+main.js:16 Segment size (byte): 83750
+
+main.js:11 Time: 40
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 16.916
+main.js:14 Measured throughput (Mbps): 13.8178
+main.js:15 Download time (second): 0.01
+main.js:16 Segment size (byte): 837500
+
+main.js:11 Time: 48
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 16.95
+main.js:14 Measured throughput (Mbps): 23.135166666666667
+main.js:15 Download time (second): 0.01
+main.js:16 Segment size (byte): 837500
+
+main.js:11 Time: 56
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 12.952
+main.js:14 Measured throughput (Mbps): 21.833428571428573
+main.js:15 Download time (second): 0.01
+main.js:16 Segment size (byte): 837500
+
+main.js:11 Time: 64
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 8.983
+main.js:14 Measured throughput (Mbps): 19.071
+main.js:15 Download time (second): 0.01
+main.js:16 Segment size (byte): 837500
+
+main.js:11 Time: 72
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 13.05
+main.js:14 Measured throughput (Mbps): 18.904400000000003
+main.js:15 Download time (second): 0.01
+main.js:16 Segment size (byte): 837500
+
+main.js:11 Time: 80
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 17.076
+main.js:14 Measured throughput (Mbps): 11.669666666666666
+main.js:15 Download time (second): 0.14
+main.js:16 Segment size (byte): 59821.428571428565
+
+main.js:11 Time: 88
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 17.014
+main.js:14 Measured throughput (Mbps): 1.534
+main.js:15 Download time (second): 0.17
+main.js:16 Segment size (byte): 49264.70588235294
+
+main.js:11 Time: 96
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 9.107
+main.js:14 Measured throughput (Mbps): 1.534
+main.js:15 Download time (second): 0.17
+main.js:16 Segment size (byte): 49264.70588235294
+
+main.js:11 Time: 104
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 9.194
+main.js:14 Measured throughput (Mbps): 1.1998
+main.js:15 Download time (second): 0.27
+main.js:16 Segment size (byte): 31018.51851851852
+
+main.js:11 Time: 112
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 13.231
+main.js:14 Measured throughput (Mbps): 0.8752000000000001
+main.js:15 Download time (second): 0.31
+main.js:16 Segment size (byte): 27016.129032258068
+
+main.js:11 Time: 120
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 17.2
+main.js:14 Measured throughput (Mbps): 1.48575
+main.js:15 Download time (second): 0.18
+main.js:16 Segment size (byte): 46527.77777777778
+
+main.js:11 Time: 128
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 13.317
+main.js:14 Measured throughput (Mbps): 1.5065
+main.js:15 Download time (second): 0.18
+main.js:16 Segment size (byte): 46527.77777777778
+
+main.js:11 Time: 136
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 9.232
+main.js:14 Measured throughput (Mbps): 1.355
+main.js:15 Download time (second): 0.22
+main.js:16 Segment size (byte): 38068.18181818182
+
+main.js:11 Time: 144
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 13.163
+main.js:14 Measured throughput (Mbps): 1.0733333333333333
+main.js:15 Download time (second): 0.33
+main.js:16 Segment size (byte): 25378.78787878788
+
+main.js:11 Time: 152
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 13.218
+main.js:14 Measured throughput (Mbps): 1.1482
+main.js:15 Download time (second): 0.23
+main.js:16 Segment size (byte): 36413.043478260865
+
+main.js:11 Time: 160
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 13.27
+main.js:14 Measured throughput (Mbps): 1.5205
+main.js:15 Download time (second): 0.18
+main.js:16 Segment size (byte): 46527.77777777778
+
+main.js:11 Time: 168
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 9.292
+main.js:14 Measured throughput (Mbps): 1.3656
+main.js:15 Download time (second): 0.22
+main.js:16 Segment size (byte): 38068.18181818182
+
+main.js:11 Time: 176
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 13.361
+main.js:14 Measured throughput (Mbps): 0.7465
+main.js:15 Download time (second): 0.36
+main.js:16 Segment size (byte): 23263.88888888889
+
+main.js:11 Time: 184
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 13.388
+main.js:14 Measured throughput (Mbps): 0.9452
+main.js:15 Download time (second): 0.29
+main.js:16 Segment size (byte): 28879.310344827587
+
+main.js:11 Time: 192
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 13.449
+main.js:14 Measured throughput (Mbps): 1.359
+main.js:15 Download time (second): 0.20
+main.js:16 Segment size (byte): 41875
+
+main.js:11 Time: 200
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 17.502
+main.js:14 Measured throughput (Mbps): 2.8855714285714282
+main.js:15 Download time (second): 0.09
+main.js:16 Segment size (byte): 93055.55555555556
+
+main.js:11 Time: 208
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 17.538
+main.js:14 Measured throughput (Mbps): 4.352
+main.js:15 Download time (second): 0.04
+main.js:16 Segment size (byte): 209375
+
+main.js:11 Time: 216
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 17.574
+main.js:14 Measured throughput (Mbps): 7.548
+main.js:15 Download time (second): 0.04
+main.js:16 Segment size (byte): 209375
+
+main.js:11 Time: 224
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 17.529
+main.js:14 Measured throughput (Mbps): 8.094
+main.js:15 Download time (second): 0.03
+main.js:16 Segment size (byte): 279166.6666666667
+
+main.js:11 Time: 232
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 65.535
+main.js:14 Measured throughput (Mbps): 7.8294
+main.js:15 Download time (second): 0.03
+main.js:16 Segment size (byte): 279166.6666666667
+
+main.js:11 Time: 240
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 65.593
+main.js:14 Measured throughput (Mbps): 8.4225
+main.js:15 Download time (second): 0.03
+main.js:16 Segment size (byte): 279166.6666666667
+
+main.js:11 Time: 248
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 65.624
+main.js:14 Measured throughput (Mbps): 7.3155
+main.js:15 Download time (second): 0.04
+main.js:16 Segment size (byte): 209375
+
+main.js:11 Time: 256
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 65.631
+main.js:14 Measured throughput (Mbps): 7.253
+main.js:15 Download time (second): 0.04
+main.js:16 Segment size (byte): 209375
+
+main.js:11 Time: 264
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 65.673
+main.js:14 Measured throughput (Mbps): 7.920833333333333
+main.js:15 Download time (second): 0.03
+main.js:16 Segment size (byte): 279166.6666666667
+
+main.js:11 Time: 272
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 65.725
+main.js:14 Measured throughput (Mbps): 7.9615
+main.js:15 Download time (second): 0.03
+main.js:16 Segment size (byte): 279166.6666666667
+
+main.js:11 Time: 280
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 65.772
+main.js:14 Measured throughput (Mbps): 7.66125
+main.js:15 Download time (second): 0.03
+main.js:16 Segment size (byte): 279166.6666666667
+
+main.js:11 Time: 288
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 65.814
+main.js:14 Measured throughput (Mbps): 7.27875
+main.js:15 Download time (second): 0.03
+main.js:16 Segment size (byte): 279166.6666666667
+
+main.js:11 Time: 296
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 65.867
+main.js:14 Measured throughput (Mbps): 12.919799999999999
+main.js:15 Download time (second): 0.03
+main.js:16 Segment size (byte): 279166.6666666667
+
+main.js:11 Time: 304
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 65.911
+main.js:14 Measured throughput (Mbps): 11.657833333333334
+main.js:15 Download time (second): 0.02
+main.js:16 Segment size (byte): 418750
+
+main.js:11 Time: 312
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 65.97
+main.js:14 Measured throughput (Mbps): 11.263857142857143
+main.js:15 Download time (second): 0.02
+main.js:16 Segment size (byte): 418750
+
+main.js:11 Time: 320
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 65.999
+main.js:14 Measured throughput (Mbps): 9.634444444444446
+main.js:15 Download time (second): 0.06
+main.js:16 Segment size (byte): 139583.33333333334
+
+main.js:11 Time: 328
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 58.02
+main.js:14 Measured throughput (Mbps): 9.634444444444446
+main.js:15 Download time (second): 0.06
+main.js:16 Segment size (byte): 139583.33333333334
+
+main.js:11 Time: 336
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 49.79
+main.js:14 Measured throughput (Mbps): 9.634444444444446
+main.js:15 Download time (second): 0.06
+main.js:16 Segment size (byte): 139583.33333333334
+
+main.js:11 Time: 344
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 41.823
+main.js:14 Measured throughput (Mbps): 9.634444444444446
+main.js:15 Download time (second): 0.06
+main.js:16 Segment size (byte): 139583.33333333334
+
+main.js:11 Time: 352
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 33.842
+main.js:14 Measured throughput (Mbps): 9.634444444444446
+main.js:15 Download time (second): 0.06
+main.js:16 Segment size (byte): 139583.33333333334
+
+main.js:11 Time: 360
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 29.889
+main.js:14 Measured throughput (Mbps): 8.7456
+main.js:15 Download time (second): 0.15
+main.js:16 Segment size (byte): 55833.333333333336
+
+main.js:11 Time: 368
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 21.92
+main.js:14 Measured throughput (Mbps): 8.7456
+main.js:15 Download time (second): 0.15
+main.js:16 Segment size (byte): 55833.333333333336
+
+main.js:11 Time: 376
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 13.94
+main.js:14 Measured throughput (Mbps): 8.7456
+main.js:15 Download time (second): 0.15
+main.js:16 Segment size (byte): 55833.333333333336
+
+main.js:11 Time: 384
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 5.941
+main.js:14 Measured throughput (Mbps): 8.7456
+main.js:15 Download time (second): 0.15
+main.js:16 Segment size (byte): 55833.333333333336
+
+main.js:11 Time: 392
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 6.044
+main.js:14 Measured throughput (Mbps): 8.0135
+main.js:15 Download time (second): 0.24
+main.js:16 Segment size (byte): 34895.833333333336
+
+main.js:11 Time: 400
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 6.044
+main.js:14 Measured throughput (Mbps): 8.0135
+main.js:15 Download time (second): 0.24
+main.js:16 Segment size (byte): 34895.833333333336
+
+main.js:11 Time: 408
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 3.994
+main.js:14 Measured throughput (Mbps): 7.329818181818182
+main.js:15 Download time (second): 0.36
+main.js:16 Segment size (byte): 23263.88888888889
+
+main.js:11 Time: 416
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 12.055
+main.js:14 Measured throughput (Mbps): 5.385714285714285
+main.js:15 Download time (second): 0.45
+main.js:16 Segment size (byte): 18611.111111111113
+
+main.js:11 Time: 424
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 12.1
+main.js:14 Measured throughput (Mbps): 0.6425714285714286
+main.js:15 Download time (second): 0.39
+main.js:16 Segment size (byte): 21474.358974358973
+
+main.js:11 Time: 432
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 4.134
+main.js:14 Measured throughput (Mbps): 0.6425714285714286
+main.js:15 Download time (second): 0.39
+main.js:16 Segment size (byte): 21474.358974358973
+
+main.js:11 Time: 440
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 16.145
+main.js:14 Measured throughput (Mbps): 1.086
+main.js:15 Download time (second): 0.27
+main.js:16 Segment size (byte): 31018.51851851852
+
+main.js:11 Time: 448
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 12.234
+main.js:14 Measured throughput (Mbps): 1.1792
+main.js:15 Download time (second): 0.23
+main.js:16 Segment size (byte): 36413.043478260865
+
+main.js:11 Time: 456
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 12.294
+main.js:14 Measured throughput (Mbps): 1.484
+main.js:15 Download time (second): 0.18
+main.js:16 Segment size (byte): 46527.77777777778
+
+main.js:11 Time: 464
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 4.324
+main.js:14 Measured throughput (Mbps): 1.484
+main.js:15 Download time (second): 0.18
+main.js:16 Segment size (byte): 46527.77777777778
+
+main.js:11 Time: 472
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 12.248
+main.js:14 Measured throughput (Mbps): 1.0795
+main.js:15 Download time (second): 0.32
+main.js:16 Segment size (byte): 26171.875
+
+main.js:11 Time: 480
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 12.403
+main.js:14 Measured throughput (Mbps): 1.09825
+main.js:15 Download time (second): 0.28
+main.js:16 Segment size (byte): 29910.714285714283
+
+main.js:11 Time: 488
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 12.456
+main.js:14 Measured throughput (Mbps): 1.133857142857143
+main.js:15 Download time (second): 0.22
+main.js:16 Segment size (byte): 38068.18181818182
+
+main.js:11 Time: 496
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 4.466
+main.js:14 Measured throughput (Mbps): 1.133857142857143
+main.js:15 Download time (second): 0.22
+main.js:16 Segment size (byte): 38068.18181818182
+
+main.js:11 Time: 504
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 8.524
+main.js:14 Measured throughput (Mbps): 1.0535999999999999
+main.js:15 Download time (second): 0.31
+main.js:16 Segment size (byte): 27016.129032258068
+
+main.js:11 Time: 512
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 12.305
+main.js:14 Measured throughput (Mbps): 1.026
+main.js:15 Download time (second): 0.27
+main.js:16 Segment size (byte): 31018.51851851852
+
+main.js:11 Time: 520
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 12.345
+main.js:14 Measured throughput (Mbps): 2.6905714285714284
+main.js:15 Download time (second): 0.11
+main.js:16 Segment size (byte): 76136.36363636365
+
+main.js:11 Time: 528
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 54.503
+main.js:14 Measured throughput (Mbps): 7.086875
+main.js:15 Download time (second): 0.04
+main.js:16 Segment size (byte): 209375
+
+main.js:11 Time: 536
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 62.688
+main.js:14 Measured throughput (Mbps): 8.2365
+main.js:15 Download time (second): 0.02
+main.js:16 Segment size (byte): 418750
+
+main.js:11 Time: 544
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 62.733
+main.js:14 Measured throughput (Mbps): 9.1082
+main.js:15 Download time (second): 0.02
+main.js:16 Segment size (byte): 418750
+
+main.js:11 Time: 552
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 62.788
+main.js:14 Measured throughput (Mbps): 8.7045
+main.js:15 Download time (second): 0.02
+main.js:16 Segment size (byte): 418750
+
+main.js:11 Time: 560
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 62.814
+main.js:14 Measured throughput (Mbps): 12.9945
+main.js:15 Download time (second): 0.02
+main.js:16 Segment size (byte): 418750
+
+main.js:11 Time: 568
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 62.826
+main.js:14 Measured throughput (Mbps): 12.221714285714286
+main.js:15 Download time (second): 0.03
+main.js:16 Segment size (byte): 279166.6666666667
+
+main.js:11 Time: 576
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 62.62
+main.js:14 Measured throughput (Mbps): 8.1055
+main.js:15 Download time (second): 0.03
+main.js:16 Segment size (byte): 279166.6666666667
+
+main.js:11 Time: 584
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 62.657
+main.js:14 Measured throughput (Mbps): 9.391
+main.js:15 Download time (second): 0.03
+main.js:16 Segment size (byte): 279166.6666666667
+
+main.js:11 Time: 592
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 62.702
+main.js:14 Measured throughput (Mbps): 9.462
+main.js:15 Download time (second): 0.02
+main.js:16 Segment size (byte): 418750
+
+main.js:11 Time: 600
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 62.757
+main.js:14 Measured throughput (Mbps): 8.906600000000001
+main.js:15 Download time (second): 0.02
+main.js:16 Segment size (byte): 418750
+
+main.js:11 Time: 608
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 59.465
+main.js:14 Measured throughput (Mbps): 11.962857142857143
+main.js:15 Download time (second): 0.03
+main.js:16 Segment size (byte): 279166.6666666667
+
+main.js:11 Time: 616
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 51.472
+main.js:14 Measured throughput (Mbps): 11.962857142857143
+main.js:15 Download time (second): 0.03
+main.js:16 Segment size (byte): 279166.6666666667
+
+main.js:11 Time: 624
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 43.468
+main.js:14 Measured throughput (Mbps): 11.962857142857143
+main.js:15 Download time (second): 0.03
+main.js:16 Segment size (byte): 279166.6666666667
+
+main.js:11 Time: 632
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 35.493
+main.js:14 Measured throughput (Mbps): 11.962857142857143
+main.js:15 Download time (second): 0.03
+main.js:16 Segment size (byte): 279166.6666666667
+
+main.js:11 Time: 640
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 27.491
+main.js:14 Measured throughput (Mbps): 11.962857142857143
+main.js:15 Download time (second): 0.03
+main.js:16 Segment size (byte): 279166.6666666667
+
+main.js:11 Time: 648
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 19.487
+main.js:14 Measured throughput (Mbps): 11.962857142857143
+main.js:15 Download time (second): 0.03
+main.js:16 Segment size (byte): 279166.6666666667
+
+main.js:11 Time: 656
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 11.521
+main.js:14 Measured throughput (Mbps): 11.962857142857143
+main.js:15 Download time (second): 0.03
+main.js:16 Segment size (byte): 279166.6666666667
+
+main.js:11 Time: 664
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 3.535
+main.js:14 Measured throughput (Mbps): 11.962857142857143
+main.js:15 Download time (second): 0.03
+main.js:16 Segment size (byte): 279166.6666666667
+
+main.js:11 Time: 672
+main.js:12 Selected bitrate (Mbps): 0.067
+main.js:13 Buffer level (second): 0.348
+main.js:14 Measured throughput (Mbps): 11.962857142857143
+main.js:15 Download time (second): 0.03
+main.js:16 Segment size (byte): 279166.6666666667
