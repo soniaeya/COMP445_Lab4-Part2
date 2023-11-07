@@ -5,20 +5,23 @@ var bufferMetric = 0;
 var mThroughput = 0;
 var segmentDownloadTimeMetric = 0;
 var segmentSizeMetric = 0;
+var timer = 0;
 
 function collectMetrics(){
+    console.log("Time: " + timer)
     console.log("Selected bitrate (Mbps): " + bitrateMetric)
     console.log("Buffer level (second): " + bufferMetric)
     console.log("Measured throughput (Mbps): " + mThroughput)
     console.log("Download time (second): " + segmentDownloadTimeMetric)
     console.log("Segment size (byte): " + segmentSizeMetric)
     console.log()
+    timer = timer + 8;
 }
 
 
 setInterval(function () {
     collectMetrics();
-}, 1000);
+}, 8000);
 var app = angular.module('DashPlayer', ['DashSourcesService', 'DashContributorsService', 'DashIFTestVectorsService', 'angular-flot']); /* jshint ignore:line */
 
 $(document).ready(function () {
