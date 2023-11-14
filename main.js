@@ -22,6 +22,8 @@ setInterval(function () {
     collectMetrics();
     timer = timer + 8
 }, 8000);
+
+
 var app = angular.module('DashPlayer', ['DashSourcesService', 'DashContributorsService', 'DashIFTestVectorsService', 'angular-flot']); /* jshint ignore:line */
 
 $(document).ready(function () {
